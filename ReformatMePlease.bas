@@ -6,7 +6,7 @@ Option Base 0
 '
 '
 '   Author      :       John Greenan
-'   Email       :       john.greenan@alignment-systems.com
+'   Email       :
 '   Company     :       Alignment Systems Limited
 '   Date        :       10th September 2014
 '
@@ -21,7 +21,7 @@ Sub TestThisCode()
 '
 '
 '   Author      :       John Greenan
-'   Email       :       john.greenan@alignment-systems.com
+'   Email       :
 '   Company     :       Alignment Systems Limited
 '   Date        :       24th March 2015
 '

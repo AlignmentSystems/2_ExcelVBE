@@ -6,7 +6,7 @@ Option Base 0
 '
 '
 '   Author      :       John Greenan
-'   Email       :       john.greenan@alignment-systems.com
+'   Email       :
 '   Company     :       Alignment Systems Limited
 '   Date        :       24th March 2015
 '
@@ -21,7 +21,7 @@ Private Function EntryPointModulesDelete() As Boolean
 '
 '
 '   Author      :       John Greenan
-'   Email       :       john.greenan@alignment-systems.com
+'   Email       :
 '   Company     :       Alignment Systems Limited
 '   Date        :       24th March 2015
 '
@@ -43,7 +43,7 @@ Private Function EntryPointModulesExport() As Boolean
 '
 '
 '   Author      :       John Greenan
-'   Email       :       john.greenan@alignment-systems.com
+'   Email       :
 '   Company     :       Alignment Systems Limited
 '   Date        :       24th March 2015
 '
@@ -85,7 +85,7 @@ Private Function GetExportableComponentCount(TargetWorkbook As Excel.Workbook) A
 '
 '
 '   Author      :       John Greenan
-'   Email       :       john.greenan@alignment-systems.com
+'   Email       :
 '   Company     :       Alignment Systems Limited
 '   Date        :       24th March 2015
 '
@@ -121,7 +121,7 @@ Private Function CanExportDelete(TargetComponent As VBIDE.VBComponent, ExportExt
 '
 '
 '   Author      :       John Greenan
-'   Email       :       john.greenan@alignment-systems.com
+'   Email       :
 '   Company     :       Alignment Systems Limited
 '   Date        :       24th March 2015
 '
@@ -160,7 +160,7 @@ Private Function GetValidSaveAsNameAndPath(TargetWorkbook As Excel.Workbook, Tar
 '
 '
 '   Author      :       John Greenan
-'   Email       :       john.greenan@alignment-systems.com
+'   Email       :
 '   Company     :       Alignment Systems Limited
 '   Date        :       24th March 2015
 '
